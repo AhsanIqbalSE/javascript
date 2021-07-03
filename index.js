@@ -4,7 +4,7 @@ var a=[//max data array,array which have all data
     {"id":"125","firstName":"Ahsan", "lastName":"Iqbal"},
     {"id":"126","firstName":"Peter", "lastName":"Jones"}
 ]
-var b=[ min data array, the array which you want to combine
+var b=[ //min data array, the array which you want to combine
     {"id":"123", "roll_no":"12", "sec":"B"},
     {"id":"124", "roll_no":"13", "sec":"B"},
     {"id":"126", "roll_no":"14", "sec":"B"}
